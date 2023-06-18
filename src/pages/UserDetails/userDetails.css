@@ -1,0 +1,32 @@
+.property-heading{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.property-box{
+    margin-bottom: 2rem;
+}
+
+.section-header{
+    height: '40vh';
+    background-color: #8367c7;
+    font-weight: bold;
+    color: #ffffff;
+    padding: 1rem;
+    text-align: center;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    font-size: 24px;
+}
+
+.section-content{
+    padding-left: 2rem;
+    padding-top: 1rem;
+}
+
+.overall-layout{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: '100vh';
+}

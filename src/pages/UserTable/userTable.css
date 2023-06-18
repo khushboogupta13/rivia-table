@@ -1,0 +1,8 @@
+.overall-layout{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ded9e2;
+    height: 100vh;
+    width: 100vw; 
+}
